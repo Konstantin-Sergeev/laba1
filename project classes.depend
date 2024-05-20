@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1709549314 source:d:\инфа\project classes\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<chrono>
+	<random>
+	<fstream>
+
